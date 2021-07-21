@@ -20,4 +20,4 @@ See the following main advantages of social sites for the expansion of your app.
 
 YouConnect is a social media application with rudimentary features inspired by existing social media platforms such as Facebook and Twitter. The main purpose of this application is to demonstrate how to use the MERN stack technologies to implement features that allow users to connect and interact over content. We can extend these implementations further, as desired, for more complex features.
 
-![alt text](https://github.com/SamarthSajwan/Social-Media-App-using-MERN-stack/images/image1.png?raw=true)
+![alt text](https://github.com/SamarthSajwan/Social-Media-App-using-MERN-stack/blob/main/images/image1.png?raw=true)
